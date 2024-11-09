@@ -1,0 +1,1003 @@
+.a-4-1,
+.a-4-1 * {
+  box-sizing: border-box;
+}
+.a-4-1 {
+  background: #fffcf4;
+  height: 842px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-3 {
+  background: #d48488;
+  width: 595px;
+  height: 138px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-1 {
+  background: #ffd9db;
+  width: 185px;
+  height: 842px;
+  position: absolute;
+  left: 15px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: #ffaaae;
+  width: 170px;
+  height: 111px;
+  position: absolute;
+  left: 22px;
+  top: 0px;
+}
+.ellipse-1 {
+  background: #ffaaae;
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+  position: absolute;
+  left: 22px;
+  top: 26px;
+}
+.ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 158px;
+  height: 158px;
+  position: absolute;
+  left: 28px;
+  top: 32px;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 369px;
+  position: absolute;
+  left: 226px;
+  top: 32px;
+}
+.your-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  width: 337px;
+}
+.profession {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 37px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 104px;
+  height: 63px;
+  position: absolute;
+  left: 55px;
+  top: 127px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 74px;
+  top: 57px;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 172px;
+  position: absolute;
+  left: 36px;
+  top: 212px;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 152px;
+  position: relative;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.info {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-1 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 131px;
+  position: relative;
+}
+.d-o-b {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+._9-november-2005 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 133px;
+  position: relative;
+}
+.address {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+.jl-sumatera-medan-sumatera-utara {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-20 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 129px;
+  position: relative;
+}
+.phone {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+._0812-3456-7890 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-21 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.e-mail {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+.youremail-gmail-com {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-29 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 152px;
+  position: relative;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.social {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 127px;
+  position: relative;
+}
+.whats-app {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 113px;
+  position: relative;
+}
+.instagram {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+.yourinsta-gram {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-30 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-25 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.interests {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-24 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 94px;
+  position: relative;
+}
+.painting {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.drawing {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.decorating {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.photography {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.styling {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 382px;
+  position: absolute;
+  left: 213px;
+  top: 149px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-me {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.education {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 211px;
+  position: relative;
+}
+.frame-40 {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2010-2016 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 65px;
+}
+.your-school {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 117px;
+}
+.frame-39 {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2017-2020 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 65px;
+}
+.your-school2 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 127px;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2021-2024 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 65px;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.skills {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-6 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-36 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.adobe-photohop {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 98px;
+}
+.vector {
+  flex-shrink: 0;
+  width: 106px;
+  height: 9px;
+  position: relative;
+  overflow: visible;
+}
+.frame-35 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.adobe-illustrator {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 98px;
+}
+.vector2 {
+  flex-shrink: 0;
+  width: 106px;
+  height: 9px;
+  position: relative;
+  overflow: visible;
+}
+.frame-34 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ms-word {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 98px;
+}
+.vector3 {
+  flex-shrink: 0;
+  width: 106px;
+  height: 9px;
+  position: relative;
+  overflow: visible;
+}
+.frame-33 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ms-excel {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  width: 98px;
+}
+.vector4 {
+  flex-shrink: 0;
+  width: 106px;
+  height: 9px;
+  position: relative;
+  overflow: visible;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.languages {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-7 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-10 {
+  display: flex;
+  flex-direction: row;
+  gap: 67px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-8 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 57px;
+  position: relative;
+}
+.indonesia {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.english {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.chinese {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 106px;
+  position: relative;
+}
+.rectangle-12 {
+  background: #abaaaa;
+  border-radius: 50px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 9px;
+  position: relative;
+}
+.rectangle-14 {
+  background: #abaaaa;
+  border-radius: 50px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 9px;
+  position: relative;
+}
+.rectangle-16 {
+  background: #abaaaa;
+  border-radius: 50px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 9px;
+  position: relative;
+}
+.rectangle-13 {
+  background: #fda8a8;
+  border-radius: 50px;
+  flex-shrink: 0;
+  width: 88px;
+  height: 7px;
+  position: absolute;
+  left: 2px;
+  top: 1px;
+}
+.rectangle-15 {
+  background: #fda8a8;
+  border-radius: 50px;
+  flex-shrink: 0;
+  width: 77px;
+  height: 7px;
+  position: absolute;
+  left: 2px;
+  top: 20px;
+}
+.rectangle-17 {
+  background: #fda8a8;
+  border-radius: 50px;
+  flex-shrink: 0;
+  width: 56px;
+  height: 7px;
+  position: absolute;
+  left: 2px;
+  top: 39px;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.work-experience {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 1px #cd7479;
+}
+.line-8 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #cd7479;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 372px;
+  position: relative;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2024-2025 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.company-name {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2025-2030 {
+  color: #cd7479;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
